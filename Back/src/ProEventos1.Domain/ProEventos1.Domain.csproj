@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="IntelliTect.Coalesce.Swashbuckle" Version="3.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Hosting.WindowsServices" Version="5.0.17" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="5.0.2" />
+    <PackageReference Include="Microsoft.OpenApi" Version="1.4.3" />
+    <PackageReference Include="System.Runtime.WindowsRuntime.UI.Xaml" Version="4.7.0" />
+    <PackageReference Include="Yokogawa.IIoT.AzureHttpFunctionSwagger" Version="3.0.0" />
+  </ItemGroup>
+
+</Project>
